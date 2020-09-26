@@ -1,0 +1,12 @@
+h1 {
+    font-size: 17px;
+    Color: #2c3e50;
+}
+
+.btn {
+    background-color: #2ecc71;
+}
+
+div:hover {
+    background-color: #27ae60;
+}
